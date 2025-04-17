@@ -1,4 +1,4 @@
-name: BUILD
+name: MANUAL_BUILD
 
 on: workflow_dispatch
 
